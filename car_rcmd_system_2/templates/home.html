@@ -1,0 +1,69 @@
+<html>
+  <head>
+ <title>Car recommendation system </title>
+<style>
+ .nav{box-shadow: none !important;
+  background-color : lightyellow !important;
+  color: goldenrod !important;
+  outline: none !important; height:1.2cm;
+}
+
+
+form{background-color: grey; width:30%; border-radius:10px; margin-top:1px;
+     position:fixed; left:90px;opacity: 1;}
+body{
+  background-image: url(https://i.pinimg.com/originals/de/0f/4b/de0f4bf6e8075312a6eb20ad7044571a.jpg); 
+  background-size: cover;
+  }
+input {
+  border-radius:10px;
+  font-size:25px;
+  align-items:left !important;
+}
+h2{font-size:25px}
+.radio{font-size:25px}
+.output{font-size:30px}
+
+</style>
+  </head>
+
+  <body>
+    <div class="nav">
+      <h1><b>CarRental.com</b></h1>
+    </div>
+    <div class="form">
+   <center>
+
+     <h1>Car Rental Recommendation System </h1>
+
+     <form method="POST" align:left>
+          <h2> Enter no. of person for you want car:</h2>
+          <div class="input">
+         <input type="number" name="num"  placeholder="no. of person " required /></div>
+ 
+         <label> <h2> Enter your per hour budget for booking:</h2> </label>
+          <div class="input">
+         <input type="number" name="budget"  placeholder="enter budget " required /></div>
+        
+         <label> <h2> Fuel type:</h2><label/>
+         <div class="radio">
+         <input type="radio" name="fuel"  value="Petrol" checked=true />Petrol
+         <input type="radio" name="fuel"  value="Electrical"  />Electrical
+         <input type="radio" name="fuel"  value="Diesel"  />Diesel
+         </div><br>
+        <input type="submit"   value="recommend"  /><div>
+        </div>
+        <br>
+     </form>
+    <div class="output">
+    {{m}}
+    </div>
+   </center>
+     
+    </div>
+
+
+  </body>
+
+
+</html>
