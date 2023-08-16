@@ -1,0 +1,693 @@
+﻿person,hour,Fuel Type,budget,car
+1,1,petrol,250,Maruti Swift
+1,2,petrol,500,Maruti Swift
+1,3,petrol,750,Maruti Swift
+1,4,petrol,1000,Maruti Swift
+1,5,petrol,1250,Maruti Swift
+1,6,petrol,1500,Maruti Swift
+1,7,petrol,1750,Maruti Swift
+1,8,petrol,2000,Maruti Swift
+1,9,petrol,2250,Maruti Swift
+1,10,petrol,2500,Maruti Swift
+2,1,petrol,250,Maruti Swift
+2,2,petrol,500,Maruti Swift
+2,3,petrol,750,Maruti Swift
+2,4,petrol,1000,Maruti Swift
+2,5,petrol,1250,Maruti Swift
+2,6,petrol,1500,Maruti Swift
+2,7,petrol,1750,Maruti Swift
+2,8,petrol,2000,Maruti Swift
+2,9,petrol,2250,Maruti Swift
+2,10,petrol,2500,Maruti Swift
+3,1,petrol,250,Maruti Swift
+3,2,petrol,500,Maruti Swift
+3,3,petrol,750,Maruti Swift
+3,4,petrol,1000,Maruti Swift
+2,5,petrol,1250,Maruti Swift
+3,6,petrol,1500,Maruti Swift
+3,7,petrol,1750,Maruti Swift
+3,8,petrol,2000,Maruti Swift
+3,9,petrol,2250,Maruti Swift
+3,10,petrol,2500,Maruti Swift
+4,1,petrol,250,Maruti Swift
+4,2,petrol,500,Maruti Swift
+4,3,petrol,750,Maruti Swift
+4,4,petrol,1000,Maruti Swift
+4,5,petrol,1250,Maruti Swift
+4,6,petrol,1500,Maruti Swift
+4,7,petrol,1750,Maruti Swift
+4,8,petrol,2000,Maruti Swift
+4,9,petrol,2250,Maruti Swift
+4,10,petrol,2500,Maruti Swift
+1,1,petrol,300,Honda city
+1,2,petrol,600,Honda city
+1,3,petrol,900,Honda city
+1,4,petrol,1200,Honda city
+1,5,petrol,1500,Honda city
+1,6,petrol,1800,Honda city
+1,7,petrol,2100,Honda city
+1,8,petrol,2400,Honda city
+1,9,petrol,2700,Honda city
+1,10,petrol,3000,Honda city
+2,1,petrol,300,Honda city
+2,2,petrol,600,Honda city
+2,3,petrol,900,Honda city
+2,4,petrol,1200,Honda city
+2,5,petrol,1500,Honda city
+2,6,petrol,1800,Honda city
+2,7,petrol,2100,Honda city
+2,8,petrol,2400,Honda city
+2,9,petrol,2700,Honda city
+2,10,petrol,3000,Honda city
+3,1,petrol,300,Honda city
+3,2,petrol,600,Honda city
+3,3,petrol,900,Honda city
+3,4,petrol,1200,Honda city
+3,5,petrol,1500,Honda city
+3,6,petrol,1800,Honda city
+3,7,petrol,2100,Honda city
+3,8,petrol,2400,Honda city
+3,9,petrol,2700,Honda city
+3,10,petrol,3000,Honda city
+4,1,petrol,300,Honda city
+4,2,petrol,600,Honda city
+4,3,petrol,900,Honda city
+4,4,petrol,1200,Honda city
+4,5,petrol,1500,Honda city
+4,6,petrol,1800,Honda city
+4,7,petrol,2100,Honda city
+4,8,petrol,2400,Honda city
+4,9,petrol,2700,Honda city
+4,10,petrol,3000,Honda city
+1,1,petrol,1500,Bmw  series 7
+1,2,petrol,3000,Bmw  series 7
+1,3,petrol,4500,Bmw  series 7
+1,4,petrol,6000,Bmw  series 7
+1,5,petrol,7500,Bmw  series 7
+1,6,petrol,9000,Bmw  series 7
+1,7,petrol,10500,Bmw  series 7
+1,8,petrol,12000,Bmw  series 7
+1,9,petrol,13500,Bmw  series 7
+1,10,petrol,15000,Bmw  series 7
+2,1,petrol,1500,Bmw  series 7
+2,2,petrol,3000,Bmw  series 7
+2,3,petrol,4500,Bmw  series 7
+2,4,petrol,6000,Bmw  series 7
+2,5,petrol,7500,Bmw  series 7
+2,6,petrol,9000,Bmw  series 7
+1,7,petrol,10500,Bmw  series 7
+2,8,petrol,12000,Bmw  series 7
+2,9,petrol,13500,Bmw  series 7
+2,10,petrol,15000,Bmw  series 7
+3,1,petrol,1500,Bmw  series 7
+3,2,petrol,3000,Bmw  series 7
+3,3,petrol,4500,Bmw  series 7
+3,4,petrol,6000,Bmw  series 7
+3,5,petrol,7500,Bmw  series 7
+3,6,petrol,9000,Bmw  series 7
+3,7,petrol,10500,Bmw  series 7
+3,8,petrol,12000,Bmw  series 7
+3,9,petrol,13500,Bmw  series 7
+3,10,petrol,15000,Bmw  series 7
+4,1,petrol,1500,Bmw  series 7
+4,2,petrol,3000,Bmw  series 7
+4,3,petrol,4500,Bmw  series 7
+4,4,petrol,6000,Bmw  series 7
+4,5,petrol,7500,Bmw  series 7
+4,6,petrol,9000,Bmw  series 7
+4,7,petrol,10500,Bmw  series 7
+4,8,petrol,12000,Bmw  series 7
+4,9,petrol,13500,Bmw  series 7
+4,10,petrol,15000,Bmw  series 7
+1,1,petrol,1100,Ford Mustang
+1,2,petrol,2200,Ford Mustang
+1,3,petrol,3300,Ford Mustang
+1,4,petrol,4400,Ford Mustang
+1,5,petrol,5500,Ford Mustang
+1,6,petrol,6600,Ford Mustang
+1,7,petrol,7700,Ford Mustang
+1,8,petrol,8800,Ford Mustang
+2,1,petrol,1100,Ford Mustang
+2,2,petrol,2200,Ford Mustang
+2,3,petrol,3300,Ford Mustang
+2,4,petrol,4400,Ford Mustang
+2,5,petrol,5500,Ford Mustang
+2,6,petrol,6600,Ford Mustang
+2,7,petrol,7700,Ford Mustang
+2,8,petrol,8800,Ford Mustang
+6,1,petrol,1000,Ertiga
+6,2,petrol,2000,Ertiga
+6,3,petrol,3000,Ertiga
+6,4,petrol,4000,Ertiga
+6,5,petrol,5000,Ertiga
+6,6,petrol,6000,Ertiga
+6,7,petrol,7000,Ertiga
+6,8,petrol,8000,Ertiga
+6,9,petrol,9000,Ertiga
+6,10,petrol,10000,Ertiga
+7,1,petrol,1000,Ertiga
+7,2,petrol,2000,Ertiga
+7,3,petrol,3000,Ertiga
+7,4,petrol,4000,Ertiga
+7,5,petrol,5000,Ertiga
+7,6,petrol,6000,Ertiga
+7,7,petrol,7000,Ertiga
+7,8,petrol,8000,Ertiga
+7,9,petrol,9000,Ertiga
+7,10,petrol,10000,Ertiga
+5,1,petrol,1500,Fortuner
+5,2,petrol,3000,Fortuner
+5,3,petrol,4500,Fortuner
+5,4,petrol,6000,Fortuner
+5,5,petrol,7500,Fortuner
+5,6,petrol,9000,Fortuner
+5,7,petrol,10500,Fortuner
+5,8,petrol,12000,Fortuner
+5,9,petrol,13500,Fortuner
+5,10,petrol,15000,Fortuner
+6,1,petrol,1500,Fortuner
+6,2,petrol,3000,Fortuner
+6,3,petrol,4500,Fortuner
+6,4,petrol,6000,Fortuner
+6,5,petrol,7500,Fortuner
+6,6,petrol,9000,Fortuner
+6,7,petrol,10500,Fortuner
+6,8,petrol,12000,Fortuner
+6,9,petrol,13500,Fortuner
+6,10,petrol,15000,Fortuner
+7,1,petrol,1500,Fortuner
+7,2,petrol,3000,Fortuner
+7,3,petrol,4500,Fortuner
+7,4,petrol,6000,Fortuner
+7,5,petrol,7500,Fortuner
+7,6,petrol,9000,Fortuner
+7,7,petrol,10500,Fortuner
+7,8,petrol,12000,Fortuner
+7,9,petrol,13500,Fortuner
+7,10,petrol,15000,Fortuner
+5,1,petrol,250,Maruti Swift
+5,2,petrol,500,Maruti Swift
+5,3,petrol,750,Maruti Swift
+5,4,petrol,1000,Maruti Swift
+5,5,petrol,1250,Maruti Swift
+5,6,petrol,1500,Maruti Swift
+5,7,petrol,1750,Maruti Swift
+5,8,petrol,2000,Maruti Swift
+5,9,petrol,2250,Maruti Swift
+5,10,petrol,2500,Maruti Swift
+5,1,petrol,300,Honda city
+5,2,petrol,600,Honda city
+5,3,petrol,900,Honda city
+5,4,petrol,1200,Honda city
+5,5,petrol,1500,Honda city
+5,6,petrol,1800,Honda city
+5,7,petrol,2100,Honda city
+5,8,petrol,2400,Honda city
+5,9,petrol,2700,Honda city
+5,10,petrol,3000,Honda city
+5,1,petrol,1000,Bmw  series 7
+5,2,petrol,2000,Bmw  series 7
+5,3,petrol,3000,Bmw  series 7
+5,4,petrol,4000,Bmw  series 7
+5,5,petrol,5000,Bmw  series 7
+5,6,petrol,6000,Bmw  series 7
+5,7,petrol,7000,Bmw  series 7
+5,8,petrol,8000,Bmw  series 7
+5,9,petrol,9000,Bmw  series 7
+5,10,petrol,10000,Bmw  series 7
+8,1,petrol,1000,Ertiga
+8,2,petrol,2000,Ertiga
+8,3,petrol,3000,Ertiga
+8,4,petrol,4000,Ertiga
+8,5,petrol,5000,Ertiga
+8,6,petrol,6000,Ertiga
+8,7,petrol,7000,Ertiga
+8,8,petrol,8000,Ertiga
+8,9,petrol,9000,Ertiga
+8,10,petrol,10000,Ertiga
+8,1,petrol,1500,Fortuner
+8,2,petrol,3000,Fortuner
+8,3,petrol,4500,Fortuner
+8,4,petrol,6000,Fortuner
+8,5,petrol,7500,Fortuner
+8,6,petrol,9000,Fortuner
+8,7,petrol,10500,Fortuner
+8,8,petrol,12000,Fortuner
+8,9,petrol,13500,Fortuner
+8,10,petrol,15000,Fortuner
+1,1,Electrical,500,Tata Nexon
+1,2,Electrical,1000,Tata Nexon
+1,3,Electrical,1500,Tata Nexon
+1,4,Electrical,2000,Tata Nexon
+1,5,Electrical,2500,Tata Nexon
+1,6,Electrical,3000,Tata Nexon
+1,7,Electrical,3500,Tata Nexon
+1,8,Electrical,4000,Tata Nexon
+1,9,Electrical,4500,Tata Nexon
+1,10,Electrical,5000,Tata Nexon
+2,1,Electrical,500,Tata Nexon
+2,2,Electrical,1000,Tata Nexon
+2,3,Electrical,1500,Tata Nexon
+2,4,Electrical,2000,Tata Nexon
+2,5,Electrical,2500,Tata Nexon
+2,6,Electrical,3000,Tata Nexon
+2,7,Electrical,3500,Tata Nexon
+2,8,Electrical,4000,Tata Nexon
+2,9,Electrical,4500,Tata Nexon
+2,10,Electrical,5000,Tata Nexon
+3,1,Electrical,500,Tata Nexon
+3,2,Electrical,1000,Tata Nexon
+3,3,Electrical,1500,Tata Nexon
+3,4,Electrical,2000,Tata Nexon
+3,5,Electrical,2500,Tata Nexon
+3,6,Electrical,3000,Tata Nexon
+3,7,Electrical,3500,Tata Nexon
+3,8,Electrical,4000,Tata Nexon
+3,9,Electrical,4500,Tata Nexon
+3,10,Electrical,5000,Tata Nexon
+4,1,Electrical,500,Tata Nexon
+4,2,Electrical,1000,Tata Nexon
+4,3,Electrical,1500,Tata Nexon
+4,4,Electrical,2000,Tata Nexon
+4,5,Electrical,2500,Tata Nexon
+4,6,Electrical,3000,Tata Nexon
+4,7,Electrical,3500,Tata Nexon
+4,8,Electrical,4000,Tata Nexon
+4,9,Electrical,4500,Tata Nexon
+4,10,Electrical,5000,Tata Nexon
+5,1,Electrical,500,Tata Nexon
+5,2,Electrical,1000,Tata Nexon
+5,3,Electrical,1500,Tata Nexon
+5,4,Electrical,2000,Tata Nexon
+5,5,Electrical,2500,Tata Nexon
+5,6,Electrical,3000,Tata Nexon
+5,7,Electrical,3500,Tata Nexon
+5,8,Electrical,4000,Tata Nexon
+5,9,Electrical,4500,Tata Nexon
+5,10,Electrical,5000,Tata Nexon
+6,1,Electrical,1000,Tata safari
+6,2,Electrical,2000,Tata safari
+6,3,Electrical,3000,Tata safari
+6,4,Electrical,4000,Tata safari
+6,5,Electrical,5000,Tata safari
+6,6,Electrical,6000,Tata safari
+6,7,Electrical,7000,Tata safari
+6,8,Electrical,8000,Tata safari
+6,9,Electrical,9000,Tata safari
+6,10,Electrical,10000,Tata safari
+7,1,Electrical,1000,Tata safari
+7,2,Electrical,2000,Tata safari
+7,3,Electrical,3000,Tata safari
+7,4,Electrical,4000,Tata safari
+7,5,Electrical,5000,Tata safari
+7,6,Electrical,6000,Tata safari
+7,7,Electrical,7000,Tata safari
+7,8,Electrical,8000,Tata safari
+7,9,Electrical,9000,Tata safari
+7,10,Electrical,10000,Tata safari
+8,1,Electrical,1000,Tata safari
+8,2,Electrical,2000,Tata safari
+8,3,Electrical,3000,Tata safari
+8,4,Electrical,4000,Tata safari
+8,5,Electrical,5000,Tata safari
+8,6,Electrical,6000,Tata safari
+8,7,Electrical,7000,Tata safari
+4,8,Electrical,8000,Tata safari
+8,9,Electrical,9000,Tata safari
+8,10,Electrical,10000,Tata safari
+1,1,Electrical,300,Tata Tigor EV
+1,2,Electrical,600,Tata Tigor EV
+1,3,Electrical,900,Tata Tigor EV
+1,4,Electrical,1200,Tata Tigor EV
+1,5,Electrical,1500,Tata Tigor EV
+1,6,Electrical,1800,Tata Tigor EV
+1,7,Electrical,2100,Tata Tigor EV
+1,8,Electrical,2400,Tata Tigor EV
+1,9,Electrical,2700,Tata Tigor EV
+1,10,Electrical,3000,Tata Tigor EV
+2,1,Electrical,300,Tata Tigor EV
+2,2,Electrical,600,Tata Tigor EV
+2,3,Electrical,900,Tata Tigor EV
+2,4,Electrical,1200,Tata Tigor EV
+2,5,Electrical,1500,Tata Tigor EV
+2,6,Electrical,1800,Tata Tigor EV
+2,7,Electrical,2100,Tata Tigor EV
+2,8,Electrical,2400,Tata Tigor EV
+2,9,Electrical,2700,Tata Tigor EV
+2,10,Electrical,3000,Tata Tigor EV
+3,1,Electrical,300,Tata Tigor EV
+3,2,Electrical,600,Tata Tigor EV
+3,3,Electrical,900,Tata Tigor EV
+3,4,Electrical,1200,Tata Tigor EV
+3,5,Electrical,1500,Tata Tigor EV
+3,6,Electrical,1800,Tata Tigor EV
+3,7,Electrical,2100,Tata Tigor EV
+3,8,Electrical,2400,Tata Tigor EV
+3,9,Electrical,2700,Tata Tigor EV
+3,10,Electrical,3000,Tata Tigor EV
+4,1,Electrical,300,Tata Tigor EV
+4,2,Electrical,600,Tata Tigor EV
+4,3,Electrical,900,Tata Tigor EV
+4,4,Electrical,1200,Tata Tigor EV
+4,5,Electrical,1500,Tata Tigor EV
+4,6,Electrical,1800,Tata Tigor EV
+4,7,Electrical,2100,Tata Tigor EV
+4,8,Electrical,2400,Tata Tigor EV
+4,9,Electrical,2700,Tata Tigor EV
+4,10,Electrical,3000,Tata Tigor EV
+5,1,Electrical,300,Tata Tigor EV
+5,2,Electrical,600,Tata Tigor EV
+5,3,Electrical,900,Tata Tigor EV
+5,4,Electrical,1200,Tata Tigor EV
+5,5,Electrical,1500,Tata Tigor EV
+5,6,Electrical,1800,Tata Tigor EV
+5,7,Electrical,2100,Tata Tigor EV
+5,8,Electrical,2400,Tata Tigor EV
+5,9,Electrical,2700,Tata Tigor EV
+5,10,Electrical,3000,Tata Tigor EV
+1,1,Electrical,800,Tata Nexon
+1,2,Electrical,1600,Tata Nexon
+1,3,Electrical,2400,Tata Nexon
+1,4,Electrical,3200,Tata Nexon
+1,5,Electrical,4000,Tata Nexon
+1,6,Electrical,4800,Tata Nexon
+1,7,Electrical,5600,Tata Nexon
+1,8,Electrical,6400,Tata Nexon
+1,9,Electrical,7200,Tata Nexon
+1,10,Electrical,8000,Tata Nexon
+2,1,Electrical,800,Tata Nexon
+2,2,Electrical,1600,Tata Nexon
+2,3,Electrical,2400,Tata Nexon
+2,4,Electrical,3200,Tata Nexon
+2,5,Electrical,4000,Tata Nexon
+2,6,Electrical,4800,Tata Nexon
+2,7,Electrical,5600,Tata Nexon
+2,8,Electrical,6400,Tata Nexon
+2,9,Electrical,7200,Tata Nexon
+2,10,Electrical,8000,Tata Nexon
+3,1,Electrical,800,Tata Nexon
+3,2,Electrical,1600,Tata Nexon
+3,3,Electrical,2400,Tata Nexon
+3,4,Electrical,3200,Tata Nexon
+3,5,Electrical,4000,Tata Nexon
+3,6,Electrical,4800,Tata Nexon
+3,7,Electrical,5600,Tata Nexon
+3,8,Electrical,6400,Tata Nexon
+3,9,Electrical,7200,Tata Nexon
+3,10,Electrical,8000,Tata Nexon
+4,1,Electrical,800,Tata Nexon
+4,2,Electrical,1600,Tata Nexon
+4,3,Electrical,2400,Tata Nexon
+4,4,Electrical,3200,Tata Nexon
+4,5,Electrical,4000,Tata Nexon
+4,6,Electrical,4800,Tata Nexon
+4,7,Electrical,5600,Tata Nexon
+4,8,Electrical,6400,Tata Nexon
+4,9,Electrical,7200,Tata Nexon
+4,10,Electrical,8000,Tata Nexon
+5,1,Electrical,800,Tata Nexon
+5,2,Electrical,1600,Tata Nexon
+5,3,Electrical,2400,Tata Nexon
+5,4,Electrical,3200,Tata Nexon
+5,5,Electrical,4000,Tata Nexon
+5,6,Electrical,4800,Tata Nexon
+5,7,Electrical,5600,Tata Nexon
+5,8,Electrical,6400,Tata Nexon
+5,9,Electrical,7200,Tata Nexon
+5,10,Electrical,8000,Tata Nexon
+1,1,Electrical,250,Tata Tigor EV
+1,2,Electrical,500,Tata Tigor EV
+1,3,Electrical,750,Tata Tigor EV
+1,4,Electrical,1000,Tata Tigor EV
+1,5,Electrical,1250,Tata Tigor EV
+1,6,Electrical,1500,Tata Tigor EV
+1,7,Electrical,1750,Tata Tigor EV
+1,8,Electrical,2000,Tata Tigor EV
+1,9,Electrical,2250,Tata Tigor EV
+1,10,Electrical,2500,Tata Tigor EV
+2,1,Electrical,250,Tata Tigor EV
+2,2,Electrical,500,Tata Tigor EV
+2,3,Electrical,750,Tata Tigor EV
+2,4,Electrical,1000,Tata Tigor EV
+2,5,Electrical,1250,Tata Tigor EV
+2,6,Electrical,1500,Tata Tigor EV
+2,7,Electrical,1750,Tata Tigor EV
+2,8,Electrical,2000,Tata Tigor EV
+2,9,Electrical,2250,Tata Tigor EV
+2,10,Electrical,2500,Tata Tigor EV
+3,1,Electrical,250,Tata Tigor EV
+3,2,Electrical,500,Tata Tigor EV
+3,3,Electrical,750,Tata Tigor EV
+3,4,Electrical,1000,Tata Tigor EV
+3,5,Electrical,1250,Tata Tigor EV
+3,6,Electrical,1500,Tata Tigor EV
+3,7,Electrical,1750,Tata Tigor EV
+3,8,Electrical,2000,Tata Tigor EV
+3,9,Electrical,2250,Tata Tigor EV
+3,10,Electrical,2500,Tata Tigor EV
+4,1,Electrical,250,Tata Tigor EV
+4,2,Electrical,500,Tata Tigor EV
+4,3,Electrical,750,Tata Tigor EV
+4,4,Electrical,1000,Tata Tigor EV
+4,5,Electrical,1250,Tata Tigor EV
+4,6,Electrical,1500,Tata Tigor EV
+4,7,Electrical,1750,Tata Tigor EV
+4,8,Electrical,2000,Tata Tigor EV
+4,9,Electrical,2250,Tata Tigor EV
+4,10,Electrical,2500,Tata Tigor EV
+5,1,Electrical,250,Tata Tigor EV
+5,2,Electrical,500,Tata Tigor EV
+5,3,Electrical,750,Tata Tigor EV
+5,4,Electrical,1000,Tata Tigor EV
+5,5,Electrical,1250,Tata Tigor EV
+5,6,Electrical,1500,Tata Tigor EV
+5,7,Electrical,1750,Tata Tigor EV
+5,8,Electrical,2000,Tata Tigor EV
+5,9,Electrical,2250,Tata Tigor EV
+5,10,Electrical,2500,Tata Tigor EV
+1,1,Diesel,400,Maruti Alto 
+1,2,Diesel,800,Maruti Alto 
+1,3,Diesel,1200,Maruti Alto 
+1,4,Diesel,1600,Maruti Alto 
+1,5,Diesel,2000,Maruti Alto 
+1,6,Diesel,2400,Maruti Alto 
+1,7,Diesel,2800,Maruti Alto 
+1,8,Diesel,3200,Maruti Alto 
+1,9,Diesel,3600,Maruti Alto 
+1,10,Diesel,4000,Maruti Alto 
+2,1,Diesel,400,Maruti Alto 
+2,2,Diesel,800,Maruti Alto 
+2,3,Diesel,1200,Maruti Alto 
+2,4,Diesel,1600,Maruti Alto 
+2,5,Diesel,2000,Maruti Alto 
+2,6,Diesel,2400,Maruti Alto 
+2,7,Diesel,2800,Maruti Alto 
+2,8,Diesel,3200,Maruti Alto 
+2,9,Diesel,3600,Maruti Alto 
+2,10,Diesel,4000,Maruti Alto 
+3,1,Diesel,400,Maruti Alto 
+3,2,Diesel,800,Maruti Alto 
+3,3,Diesel,1200,Maruti Alto 
+3,4,Diesel,1600,Maruti Alto 
+3,5,Diesel,2000,Maruti Alto 
+3,6,Diesel,2400,Maruti Alto 
+3,7,Diesel,2800,Maruti Alto 
+3,8,Diesel,3200,Maruti Alto 
+3,9,Diesel,3600,Maruti Alto 
+3,10,Diesel,4000,Maruti Alto 
+4,1,Diesel,400,Maruti Alto 
+4,2,Diesel,800,Maruti Alto 
+4,3,Diesel,1200,Maruti Alto 
+4,4,Diesel,1600,Maruti Alto 
+4,5,Diesel,2000,Maruti Alto 
+4,6,Diesel,2400,Maruti Alto 
+4,7,Diesel,2800,Maruti Alto 
+4,8,Diesel,3200,Maruti Alto 
+4,9,Diesel,3600,Maruti Alto 
+4,10,Diesel,4000,Maruti Alto 
+5,1,Diesel,400,Maruti Alto 
+5,2,Diesel,800,Maruti Alto 
+5,3,Diesel,1200,Maruti Alto 
+5,4,Diesel,1600,Maruti Alto 
+5,5,Diesel,2000,Maruti Alto 
+5,6,Diesel,2400,Maruti Alto 
+5,7,Diesel,2800,Maruti Alto 
+5,8,Diesel,3200,Maruti Alto 
+5,9,Diesel,3600,Maruti Alto 
+5,10,Diesel,4000,Maruti Alto 
+1,1,Diesel,800,Maruti Alto 
+1,2,Diesel,1600,Maruti Alto 
+1,3,Diesel,2400,Maruti Alto 
+1,4,Diesel,3200,Maruti Alto 
+1,5,Diesel,4000,Maruti Alto 
+1,6,Diesel,4800,Maruti Alto 
+1,7,Diesel,5600,Maruti Alto 
+1,8,Diesel,6400,Maruti Alto 
+1,9,Diesel,7200,Maruti Alto 
+1,10,Diesel,8000,Maruti Alto 
+2,1,Diesel,800,Maruti Alto 
+2,2,Diesel,1600,Maruti Alto 
+2,3,Diesel,2400,Maruti Alto 
+2,4,Diesel,3200,Maruti Alto 
+2,5,Diesel,4000,Maruti Alto 
+2,6,Diesel,4800,Maruti Alto 
+2,7,Diesel,5600,Maruti Alto 
+2,8,Diesel,6400,Maruti Alto 
+2,9,Diesel,7200,Maruti Alto 
+2,10,Diesel,8000,Maruti Alto 
+3,1,Diesel,800,Maruti Alto 
+3,2,Diesel,1600,Maruti Alto 
+3,3,Diesel,2400,Maruti Alto 
+3,4,Diesel,3200,Maruti Alto 
+3,5,Diesel,4000,Maruti Alto 
+3,6,Diesel,4800,Maruti Alto 
+3,7,Diesel,5600,Maruti Alto 
+3,8,Diesel,6400,Maruti Alto 
+3,9,Diesel,7200,Maruti Alto 
+3,10,Diesel,8000,Maruti Alto 
+4,1,Diesel,800,Maruti Alto 
+4,2,Diesel,1600,Maruti Alto 
+4,3,Diesel,2400,Maruti Alto 
+4,4,Diesel,3200,Maruti Alto 
+4,5,Diesel,4000,Maruti Alto 
+4,6,Diesel,4800,Maruti Alto 
+4,7,Diesel,5600,Maruti Alto 
+4,8,Diesel,6400,Maruti Alto 
+4,9,Diesel,7200,Maruti Alto 
+4,10,Diesel,8000,Maruti Alto 
+5,1,Diesel,800,Maruti Alto 
+5,2,Diesel,1600,Maruti Alto 
+5,3,Diesel,2400,Maruti Alto 
+5,4,Diesel,3200,Maruti Alto 
+5,5,Diesel,4000,Maruti Alto 
+5,6,Diesel,4800,Maruti Alto 
+5,7,Diesel,5600,Maruti Alto 
+5,8,Diesel,6400,Maruti Alto 
+5,9,Diesel,7200,Maruti Alto 
+5,10,Diesel,8000,Maruti Alto 
+6,1,Diesel,1000,Innova
+6,2,Diesel,2000,Innova
+6,3,Diesel,3000,Innova
+6,4,Diesel,4000,Innova
+6,5,Diesel,5000,Innova
+6,6,Diesel,6000,Innova
+6,7,Diesel,7000,Innova
+6,8,Diesel,8000,Innova
+6,9,Diesel,9000,Innova
+6,10,Diesel,10000,Innova
+7,1,Diesel,1000,Innova
+7,2,Diesel,2000,Innova
+7,3,Diesel,3000,Innova
+7,4,Diesel,4000,Innova
+7,5,Diesel,5000,Innova
+7,6,Diesel,6000,Innova
+7,7,Diesel,7000,Innova
+7,8,Diesel,8000,Innova
+7,9,Diesel,9000,Innova
+7,10,Diesel,10000,Innova
+8,1,Diesel,1000,Innova
+8,2,Diesel,2000,Innova
+8,3,Diesel,3000,Innova
+8,4,Diesel,4000,Innova
+8,5,Diesel,5000,Innova
+8,6,Diesel,6000,Innova
+8,7,Diesel,7000,Innova
+8,8,Diesel,8000,Innova
+8,9,Diesel,9000,Innova
+8,10,Diesel,10000,Innova
+1,2,petrol,250,low budget
+1,3,petrol,250,low budget
+2,2,petrol,250,low budget
+2,3,petrol,250,low budget
+3,2,petrol,250,low budget
+3,3,petrol,250,low budget
+4,2,petrol,250,low budget
+4,3,petrol,250,low budget
+5,2,petrol,250,low budget
+5,3,petrol,250,low budget
+1,4,petrol,550,low budget
+1,5,petrol,550,low budget
+2,4,petrol,550,low budget
+2,5,petrol,550,low budget
+3,4,petrol,550,low budget
+3,5,petrol,550,low budget
+4,4,petrol,550,low budget
+4,5,petrol,550,low budget
+5,4,petrol,550,low budget
+5,5,petrol,550,low budget
+6,2,petrol,550,low budget
+6,3,petrol,550,low budget
+7,2,petrol,550,low budget
+7,3,petrol,550,low budget
+8,2,petrol,550,low budget
+8,3,petrol,550,low budget
+6,4,petrol,1300,low budget
+6,5,petrol,1300,low budget
+7,4,petrol,1300,low budget
+7,5,petrol,1300,low budget
+8,4,petrol,1300,low budget
+8,5,petrol,1300,low budget
+1,2,Electrical,250,low budget
+1,3,Electrical,250,low budget
+2,2,Electrical,250,low budget
+2,3,Electrical,250,low budget
+3,2,Electrical,250,low budget
+3,3,Electrical,250,low budget
+4,2,Electrical,250,low budget
+4,3,Electrical,250,low budget
+5,2,Electrical,250,low budget
+5,3,Electrical,250,low budget
+1,4,Electrical,550,low budget
+1,5,Electrical,550,low budget
+2,4,Electrical,550,low budget
+2,5,Electrical,550,low budget
+3,4,Electrical,550,low budget
+3,5,Electrical,550,low budget
+4,4,Electrical,550,low budget
+4,5,Electrical,550,low budget
+5,4,Electrical,550,low budget
+5,5,Electrical,550,low budget
+6,2,Electrical,550,low budget
+6,3,Electrical,550,low budget
+7,2,Electrical,550,low budget
+7,3,Electrical,550,low budget
+8,2,Electrical,550,low budget
+8,3,Electrical,550,low budget
+6,4,Electrical,1300,low budget
+6,5,Electrical,1300,low budget
+7,4,Electrical,1300,low budget
+7,5,Electrical,1300,low budget
+8,4,Electrical,1300,low budget
+8,5,Electrical,1300,low budget
+1,2,Diesel,250,low budget
+1,3,Diesel,250,low budget
+2,2,Diesel,250,low budget
+2,3,Diesel,250,low budget
+3,2,Diesel,250,low budget
+3,3,Diesel,250,low budget
+4,2,Diesel,250,low budget
+4,3,Diesel,250,low budget
+5,2,Diesel,250,low budget
+5,3,Diesel,250,low budget
+1,4,Diesel,550,low budget
+1,5,Diesel,550,low budget
+2,4,Diesel,550,low budget
+2,5,Diesel,550,low budget
+3,4,Diesel,550,low budget
+3,5,Diesel,550,low budget
+4,4,Diesel,550,low budget
+4,5,Diesel,550,low budget
+5,4,Diesel,550,low budget
+5,5,Diesel,550,low budget
+6,2,Diesel,550,low budget
+6,3,Diesel,550,low budget
+7,2,Diesel,550,low budget
+7,3,Diesel,550,low budget
+8,2,Diesel,550,low budget
+8,3,Diesel,550,low budget
+6,4,Diesel,1300,low budget
+6,5,Diesel,1300,low budget
+7,4,Diesel,1300,low budget
+7,5,Diesel,1300,low budget
+8,4,Diesel,1300,low budget
+8,5,Diesel,1300,low budget
